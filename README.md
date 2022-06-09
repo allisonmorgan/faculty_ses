@@ -6,4 +6,4 @@ Notebooks are ordered in the way they were executed. Outside of this repository,
 
 We have several notebooks for studying differences in income (`3_income_analysis.ipynb`), education (`4_education_analysis.ipynb` & `5_education_regression.ipynb`), and urban / rural upbringing (`6_geospatial_differences.ipynb`) relative to national benchmarks. The last two notebooks use our survey responses and national data to build the probabilistic model of becoming faculty given parents' education (`7_forecasting.ipynb`), and consider how representative our survey sample is given the survey frame (`8_post_stratification.ipynb`).
 
-All subsequent notebooks import this code Analysis relies on matplotlib (3.3.3), numpy (1.19.5), pandas (1.2.0), scipy (1.6.0), seaborn (0.11.1), statsmodels (0.12.1), and geopandas (0.8.2).
+Analysis relies on matplotlib (3.3.3), numpy (1.19.5), pandas (1.2.0), scipy (1.6.0), seaborn (0.11.1), statsmodels (0.12.1), and geopandas (0.8.2).
